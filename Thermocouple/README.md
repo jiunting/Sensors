@@ -22,4 +22,4 @@
 [Exp_fig1]:./figs/Setup.png "experiment setup for seebeck coef. measurement"
 [Exp_fig2]:./figs/SeebeckCoef.png "results for seebeck coef."
 [Exp_fig3]:./figs/audrino_thermocouple1.png "thermocouple Arduino 1"
-[Exp_fig4]:./figs/audrino_thermocouple1.png "thermocouple Arduino 2"
+[Exp_fig4]:./figs/audrino_thermocouple2.png "thermocouple Arduino 2"
