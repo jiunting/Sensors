@@ -6,6 +6,7 @@
 
 ![][Exp_fig1] 
 
+* From this setup, the thermocouple wire module MAX6675 only records temperature when the voltage counts (i.e. controlled by photoresistor) below the threshold 600.
 
 
 [Exp_fig1]:./figs/triggering.png "Photoresistor triggering mechansm"
